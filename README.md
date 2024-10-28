@@ -1,2 +1,2 @@
 # delta
-delta prj's
+This is demo delta repository.
