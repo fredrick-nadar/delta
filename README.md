@@ -1,2 +1,2 @@
-# delta
+# Delta-Demo
 This is demo delta repository.
